@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --color-blue: #073161;
+    --color-blue1: #0B4D99;
+    --color-blue2: #0B51A1;
+    --color-blue3: #1071E0;
+    --color-blue4: #1179F0;
+}
+body{
+    background-color: var(--color-blue2);
+}
+header{
+    background-color: var(--color-blue);
+}
